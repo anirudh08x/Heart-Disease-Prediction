@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction
+Built a predictive model to predict whether a patient has the possibility of getting heart disease or not using supervised classification algorithms based on features like age, blood pressure, chest pain type etc.
